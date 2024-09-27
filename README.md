@@ -19,8 +19,8 @@ Nos enfocamos en el uso de tecnologías modernas y eficientes para el desarrollo
 
 ## 🌍 Únete a nuestra comunidad
 Síguenos para estar al tanto de nuevos recursos y actualizaciones:
-- *LinkedIn:* [Enlace a tu perfil]
-- *Twitter:* [Enlace a tu perfil]
-- *Email:* [tuemail@ejemplo.com]
+- *Facebook:* https://www.facebook.com/profile.php?id=100082948671979
+- *Youtube:* https://www.youtube.com/@systemsbm
+- *Email:* tecnosystems32@gmail.com
 ---------------------------------------------------------------------------------------
-Gracias por visitar este perfil. 😊😘
+Gracias por visitar este perfil. Siguenos para más😊😘
