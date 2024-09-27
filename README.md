@@ -11,12 +11,11 @@ En Systems BM, nos dedicamos a compartir **recursos gratuitos de programación y
 
 ## 🛠️ Stack Tecnológico
 Nos enfocamos en el uso de tecnologías modernas y eficientes para el desarrollo web y backend:
-- *Node.js*
+- *Html + css*
 - *JavaScript/TypeScript*
-- *React/Next.js*
-- *Svelte*
-- *AWS / Google Cloud*
-- *Docker*
+- *Java*
+- *Php*
+- *Ionic*
 
 ## 🌍 Únete a nuestra comunidad
 Síguenos para estar al tanto de nuevos recursos y actualizaciones:
