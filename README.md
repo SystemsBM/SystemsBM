@@ -1,26 +1,38 @@
-# 👨‍💻 Systems BM 🚀
-¡Bienvenido a *Systems BM*! 🌐
+# 👨‍💻 Systems BM 🚀 &nbsp;![Visitas](https://shields.io/badge/dynamic/json?color=blue&label=Vistas&query=value&url=https://api.countapi.xyz/hit/systems-bm/readme&style=flat)
 
-En Systems BM, nos dedicamos a compartir **recursos gratuitos de programación y tecnología* con la comunidad. Nuestro objetivo es ayudar a desarrolladores de todos los niveles a acceder a materiales que impulsen su aprendizaje y crecimiento profesional.
+¡Bienvenido a **Systems BM**! 🌐  
+Compartimos **recursos gratuitos de programación y tecnología** para impulsar tu aprendizaje y crecimiento profesional como desarrollador.
 
-## 🔥 ¿Qué encontrarás aquí?
-- Guías de programación
-- Proyectos Open Source
-- Recursos para mejorar tus habilidades técnicas
-- Tips y trucos para ser más eficiente en tu día a día como desarrollador
+---
 
-## 🛠️ Stack Tecnológico
-Nos enfocamos en el uso de tecnologías modernas y eficientes para el desarrollo web y backend:
-- *Html + css*
-- *JavaScript/TypeScript*
-- *Java*
-- *Php*
-- *Ionic*
+## 🔥 ¿Qué encontrarás en este repositorio?
+- 📚 Guías prácticas de programación
+- 💻 Proyectos Open Source listos para usar
+- 🎯 Recursos para mejorar tus habilidades técnicas
+- ⚡ Tips y trucos para optimizar tu trabajo diario
 
-## 🌍 Únete a nuestra comunidad
-Síguenos para estar al tanto de nuevos recursos y actualizaciones:
-- *Facebook:* https://www.facebook.com/profile.php?id=100082948671979
-- *Youtube:* https://www.youtube.com/@systemsbm
-- *Email:* tecnosystems32@gmail.com
----------------------------------------------------------------------------------------
-Gracias por visitar este perfil. Siguenos para más😊😘
+---
+
+## 🛠️ Tecnologías que usamos
+Utilizamos herramientas modernas para desarrollo web y backend:
+
+- **HTML & CSS**
+- **JavaScript / TypeScript**
+- **Java**
+- **PHP**
+- **Ionic**
+
+---
+
+## 🌐 Únete a nuestra comunidad
+
+¡Conéctate con nosotros y mantente actualizado con nuevos contenidos!
+
+- 📘 **Facebook:** [Systems BM](https://www.facebook.com/profile.php?id=100082948671979)  
+- ▶️ **YouTube:** [@systemsbm](https://www.youtube.com/@systemsbm)  
+- 📩 **Correo:** tecnosystems32@gmail.com  
+
+---
+
+Gracias por visitar nuestro perfil.  
+💡 ¡Síguenos y crezcamos juntos como desarrolladores! 🚀
